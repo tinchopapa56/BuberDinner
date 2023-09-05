@@ -1,0 +1,17 @@
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.deps.json
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.dll
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.pdb
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfoInputs.cache
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfo.cs
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.dll
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Contracts.dll
+D:\21-CODING\Net\zHUENEI\CleanPelado\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Contracts.pdb
